@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb

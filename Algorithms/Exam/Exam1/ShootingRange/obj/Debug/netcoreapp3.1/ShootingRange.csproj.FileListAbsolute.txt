@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\bin\Debug\netcoreapp3.1\ShootingRange.exe
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\bin\Debug\netcoreapp3.1\ShootingRange.deps.json
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\bin\Debug\netcoreapp3.1\ShootingRange.runtimeconfig.json
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\bin\Debug\netcoreapp3.1\ShootingRange.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\bin\Debug\netcoreapp3.1\ShootingRange.dll
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\bin\Debug\netcoreapp3.1\ShootingRange.pdb
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\obj\Debug\netcoreapp3.1\ShootingRange.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\obj\Debug\netcoreapp3.1\ShootingRange.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\obj\Debug\netcoreapp3.1\ShootingRange.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\obj\Debug\netcoreapp3.1\ShootingRange.dll
+D:\.Net Developement\Algorithms\Exam\Exam1\ShootingRange\obj\Debug\netcoreapp3.1\ShootingRange.pdb

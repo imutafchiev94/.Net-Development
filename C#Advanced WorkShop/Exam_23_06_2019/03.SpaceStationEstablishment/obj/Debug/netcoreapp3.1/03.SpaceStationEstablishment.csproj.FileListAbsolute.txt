@@ -1,0 +1,11 @@
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03.SpaceStationEstablishment.exe
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03.SpaceStationEstablishment.deps.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03.SpaceStationEstablishment.runtimeconfig.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03.SpaceStationEstablishment.runtimeconfig.dev.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03.SpaceStationEstablishment.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03.SpaceStationEstablishment.pdb
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03.SpaceStationEstablishment.csprojAssemblyReference.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03.SpaceStationEstablishment.AssemblyInfoInputs.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03.SpaceStationEstablishment.AssemblyInfo.cs
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03.SpaceStationEstablishment.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\03.SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03.SpaceStationEstablishment.pdb

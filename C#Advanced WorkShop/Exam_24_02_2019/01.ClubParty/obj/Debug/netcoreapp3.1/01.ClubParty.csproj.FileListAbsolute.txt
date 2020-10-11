@@ -1,0 +1,11 @@
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\bin\Debug\netcoreapp3.1\01.ClubParty.exe
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\bin\Debug\netcoreapp3.1\01.ClubParty.deps.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\bin\Debug\netcoreapp3.1\01.ClubParty.runtimeconfig.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\bin\Debug\netcoreapp3.1\01.ClubParty.runtimeconfig.dev.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\bin\Debug\netcoreapp3.1\01.ClubParty.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\bin\Debug\netcoreapp3.1\01.ClubParty.pdb
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\obj\Debug\netcoreapp3.1\01.ClubParty.csprojAssemblyReference.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\obj\Debug\netcoreapp3.1\01.ClubParty.AssemblyInfoInputs.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\obj\Debug\netcoreapp3.1\01.ClubParty.AssemblyInfo.cs
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\obj\Debug\netcoreapp3.1\01.ClubParty.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_24_02_2019\01.ClubParty\obj\Debug\netcoreapp3.1\01.ClubParty.pdb

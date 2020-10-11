@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDMC.App", "FDMC.App\FDMC.App.csproj", "{F2AA06D1-3E07-44C2-83E3-75FEB05D20DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDMC.Data", "FDMC.Data\FDMC.Data.csproj", "{B6E6C2DF-6408-4EC2-B511-FDE0D2D7A22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDMC.Models", "FDMC.Models\FDMC.Models.csproj", "{6BBDF6B9-05F0-4841-B3A5-2A7D1F833C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2AA06D1-3E07-44C2-83E3-75FEB05D20DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AA06D1-3E07-44C2-83E3-75FEB05D20DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AA06D1-3E07-44C2-83E3-75FEB05D20DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AA06D1-3E07-44C2-83E3-75FEB05D20DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E6C2DF-6408-4EC2-B511-FDE0D2D7A22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E6C2DF-6408-4EC2-B511-FDE0D2D7A22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E6C2DF-6408-4EC2-B511-FDE0D2D7A22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E6C2DF-6408-4EC2-B511-FDE0D2D7A22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBDF6B9-05F0-4841-B3A5-2A7D1F833C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBDF6B9-05F0-4841-B3A5-2A7D1F833C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBDF6B9-05F0-4841-B3A5-2A7D1F833C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBDF6B9-05F0-4841-B3A5-2A7D1F833C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5FC1014-D74B-4EA7-82B9-B1EBF13D6D2C}
+	EndGlobalSection
+EndGlobal

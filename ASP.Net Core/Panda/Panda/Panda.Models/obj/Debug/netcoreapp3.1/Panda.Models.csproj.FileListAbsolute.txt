@@ -1,0 +1,8 @@
+D:\.Net Developement\ASP.Net Core\Panda\Panda\Panda.Models\bin\Debug\netcoreapp3.1\Panda.Models.deps.json
+D:\.Net Developement\ASP.Net Core\Panda\Panda\Panda.Models\bin\Debug\netcoreapp3.1\Panda.Models.dll
+D:\.Net Developement\ASP.Net Core\Panda\Panda\Panda.Models\bin\Debug\netcoreapp3.1\Panda.Models.pdb
+D:\.Net Developement\ASP.Net Core\Panda\Panda\Panda.Models\obj\Debug\netcoreapp3.1\Panda.Models.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net Core\Panda\Panda\Panda.Models\obj\Debug\netcoreapp3.1\Panda.Models.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net Core\Panda\Panda\Panda.Models\obj\Debug\netcoreapp3.1\Panda.Models.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net Core\Panda\Panda\Panda.Models\obj\Debug\netcoreapp3.1\Panda.Models.dll
+D:\.Net Developement\ASP.Net Core\Panda\Panda\Panda.Models\obj\Debug\netcoreapp3.1\Panda.Models.pdb

@@ -1,0 +1,84 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Eventures.Models;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Eventures</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/css/EventuresStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-eventure border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand font-weight-bold" asp-area="" asp-controller="Home" asp-action="Index">Eventures</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <partial name="_LoginPartial" />
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link font-weight-bold text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        @if (this.User.Identity.IsAuthenticated)
+                        {
+                            @if (!this.User.IsInRole("Admin"))
+                            {
+                                <li>
+                                    <div class="dropdown">
+                                        <button class="btn dropdown-toggle font-weight-bold" type="button" data-toggle="dropdown">
+                                            Events
+                                            <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="Events" asp-action="All" class="nav-link text-dark">All Events</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            }
+                            else
+                            {
+                                <li>
+                                    <div class="dropdown">
+                                        <button class="btn dropdown-toggle font-weight-bold" type="button" data-toggle="dropdown">
+                                            Events
+                                            <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="Events" asp-action="All" class="nav-link text-dark">All Events</a></li>
+                                            <li><a asp-controller="Events" asp-action="Create" class="nav-link text-dark">Create Events</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            }
+
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+            <div class="container text-center border-top footer text-muted bg-eventure">
+                &copy; CopyRight Eventures Inc. 2018-2018. All Rights Reserved.
+            </div>
+        </main>
+    </div>
+
+    @*<footer class="border-top footer text-muted bg-eventure">
+
+        </footer>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

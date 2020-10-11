@@ -1,0 +1,13 @@
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\bin\Debug\netcoreapp2.2\FDMC.Data.deps.json
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\bin\Debug\netcoreapp2.2\FDMC.Data.dll
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\bin\Debug\netcoreapp2.2\FDMC.Data.pdb
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\bin\Debug\netcoreapp2.2\FDMC.Models.dll
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\bin\Debug\netcoreapp2.2\FDMC.Models.pdb
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\obj\Debug\netcoreapp2.2\FDMC.Data.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\obj\Debug\netcoreapp2.2\FDMC.Data.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\obj\Debug\netcoreapp2.2\FDMC.Data.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\obj\Debug\netcoreapp2.2\FDMC.Data.csproj.CopyComplete
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\obj\Debug\netcoreapp2.2\FDMC.Data.dll
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\obj\Debug\netcoreapp2.2\FDMC.Data.pdb
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\bin\Debug\netcoreapp2.2\FDMC.Data.runtimeconfig.json
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Data\bin\Debug\netcoreapp2.2\FDMC.Data.runtimeconfig.dev.json

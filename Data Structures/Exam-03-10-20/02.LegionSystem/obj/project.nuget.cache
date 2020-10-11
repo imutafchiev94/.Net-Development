@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1BSO6JOSxKCOEx+pFvc844eYYgvwDsW5bfcREXWgpIp8h2CX3Uhz7JB3/dO25rpsckbARYzTuYrK1FWX09s8w==",
+  "success": true,
+  "projectFilePath": "D:\\.Net Developement\\Data Structures\\Exam-03-10-20\\02.LegionSystem\\02.LegionSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\ngenerics\\1.5.3\\ngenerics.1.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

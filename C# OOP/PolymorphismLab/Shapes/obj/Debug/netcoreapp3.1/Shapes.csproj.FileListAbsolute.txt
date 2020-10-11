@@ -1,0 +1,11 @@
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\.Net Developement\C# OOP\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb

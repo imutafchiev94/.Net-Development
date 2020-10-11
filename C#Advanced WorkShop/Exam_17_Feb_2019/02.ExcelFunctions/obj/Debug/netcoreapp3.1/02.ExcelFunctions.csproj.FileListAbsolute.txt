@@ -1,0 +1,11 @@
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\obj\Debug\netcoreapp3.1\02.ExcelFunctions.csprojAssemblyReference.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\obj\Debug\netcoreapp3.1\02.ExcelFunctions.AssemblyInfoInputs.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\obj\Debug\netcoreapp3.1\02.ExcelFunctions.AssemblyInfo.cs
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\bin\Debug\netcoreapp3.1\02.ExcelFunctions.exe
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\bin\Debug\netcoreapp3.1\02.ExcelFunctions.deps.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\bin\Debug\netcoreapp3.1\02.ExcelFunctions.runtimeconfig.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\bin\Debug\netcoreapp3.1\02.ExcelFunctions.runtimeconfig.dev.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\bin\Debug\netcoreapp3.1\02.ExcelFunctions.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\bin\Debug\netcoreapp3.1\02.ExcelFunctions.pdb
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\obj\Debug\netcoreapp3.1\02.ExcelFunctions.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\02.ExcelFunctions\obj\Debug\netcoreapp3.1\02.ExcelFunctions.pdb

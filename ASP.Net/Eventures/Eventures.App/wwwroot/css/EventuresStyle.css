@@ -1,0 +1,26 @@
+﻿body {
+}
+
+#grey {
+    color: #afb7b8 !important;
+}
+
+#greyLine {
+    border-bottom: solid 3px #afb7b8 !important;
+}
+
+.table-eventure {
+    border-top: solid 3px #AEEEEE !important;
+}
+
+.thead-eventure {
+    border-bottom: solid 2px #afb7b8 !important;
+}
+
+.w-45 {
+    width: 45%;
+}
+
+hr .hr-2 {
+  width: 2px;  
+}

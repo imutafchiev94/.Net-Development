@@ -1,0 +1,9 @@
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\bin\Debug\netcoreapp2.0\03.PlayersAndMonsters.deps.json
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\bin\Debug\netcoreapp2.0\03.PlayersAndMonsters.runtimeconfig.json
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\bin\Debug\netcoreapp2.0\03.PlayersAndMonsters.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\bin\Debug\netcoreapp2.0\03.PlayersAndMonsters.dll
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\bin\Debug\netcoreapp2.0\03.PlayersAndMonsters.pdb
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\obj\Debug\netcoreapp2.0\03.PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\obj\Debug\netcoreapp2.0\03.PlayersAndMonsters.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\obj\Debug\netcoreapp2.0\03.PlayersAndMonsters.dll
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\03.PlayersAndMonsters\obj\Debug\netcoreapp2.0\03.PlayersAndMonsters.pdb

@@ -1,0 +1,10 @@
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\bin\Debug\netcoreapp3.1\MirrorString.exe
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\bin\Debug\netcoreapp3.1\MirrorString.deps.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\bin\Debug\netcoreapp3.1\MirrorString.runtimeconfig.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\bin\Debug\netcoreapp3.1\MirrorString.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\bin\Debug\netcoreapp3.1\MirrorString.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\bin\Debug\netcoreapp3.1\MirrorString.pdb
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\obj\Debug\netcoreapp3.1\MirrorString.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\obj\Debug\netcoreapp3.1\MirrorString.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\obj\Debug\netcoreapp3.1\MirrorString.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\MirrorString\obj\Debug\netcoreapp3.1\MirrorString.pdb

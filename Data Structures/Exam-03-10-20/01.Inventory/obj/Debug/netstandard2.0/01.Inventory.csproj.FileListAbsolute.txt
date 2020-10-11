@@ -1,0 +1,9 @@
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.deps.json
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.dll
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.pdb
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csprojAssemblyReference.cache
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfoInputs.cache
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfo.cs
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.dll
+D:\.Net Developement\Data Structures\Exam-03-10-20\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.pdb

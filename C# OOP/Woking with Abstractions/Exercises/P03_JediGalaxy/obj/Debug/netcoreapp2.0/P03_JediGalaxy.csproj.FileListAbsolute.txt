@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb

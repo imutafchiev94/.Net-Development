@@ -1,0 +1,9 @@
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.deps.json
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.runtimeconfig.json
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.dll
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.pdb
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.dll
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.pdb

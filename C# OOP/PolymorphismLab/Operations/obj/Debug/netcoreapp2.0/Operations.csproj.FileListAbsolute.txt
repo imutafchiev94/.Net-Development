@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\bin\Debug\netcoreapp2.0\Operations.deps.json
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\bin\Debug\netcoreapp2.0\Operations.runtimeconfig.json
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\bin\Debug\netcoreapp2.0\Operations.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\bin\Debug\netcoreapp2.0\Operations.dll
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\bin\Debug\netcoreapp2.0\Operations.pdb
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\obj\Debug\netcoreapp2.0\Operations.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\obj\Debug\netcoreapp2.0\Operations.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\obj\Debug\netcoreapp2.0\Operations.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\obj\Debug\netcoreapp2.0\Operations.dll
+D:\.Net Developement\C# OOP\PolymorphismLab\Operations\obj\Debug\netcoreapp2.0\Operations.pdb

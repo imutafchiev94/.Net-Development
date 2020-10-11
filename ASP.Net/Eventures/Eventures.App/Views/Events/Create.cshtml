@@ -1,0 +1,71 @@
+﻿@model Eventures.App.Commons.BindingModels.CreateEventBidingModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-center">Create Event</h1>
+
+    <hr class="hr-eventure mt-3 w-50 mx-auto" />
+    <form asp-controller="Events" asp-action="Create" method="post" class="w-50 mx-auto">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="d-flex justify-content-between">
+            <div class="form-group w-45">
+                <div class="d-flex justify-content-center">
+                    <label asp-for="Name" class="font-weight-bold"></label>
+                </div>
+                <input asp-for="Name" class="form-control" type="text" placeholder="Iron Maiden - Hills of Rock" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="d-flex justify-content-between">
+                <div class="form-group w-45">
+                    <div class="d-flex justify-content-center">
+                        <label asp-for="Place" class="font-weight-bold"></label>
+                    </div>
+                    <input asp-for="Place" class="form-control" type="text" placeholder="Plovdiv, Bulgaria" />
+                    <span asp-validation-for="Place" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <hr class="hr-eventure mt-3 mx-auto" />
+        <div class="d-flex justify-content-between">
+            <div class="form-group w-45">
+                <div class="d-flex justify-content-center">
+                    <label asp-for="Start" class="font-weight-bold"></label>
+                </div>
+                <input asp-for="Start" class="form-control" type="date" placeholder="20-07-2018" />
+                <span asp-validation-for="Start" class="text-danger"></span>
+            </div>
+            <div class="form-group w-45">
+                <div class="d-flex justify-content-center">
+                    <label asp-for="End" class="font-weight-bold"></label>
+                </div>
+                <input asp-for="End" class="form-control" type="date" placeholder="20-08-2018" />
+                <span asp-validation-for="End" class="text-danger"></span>
+            </div>
+        </div>
+        <hr class="hr-eventure mt-3 mx-auto" />
+        <div class="d-flex justify-content-between">
+            <div class="form-group w-45">
+                <div class="d-flex justify-content-center">
+                    <label asp-for="TotalTickets" class="font-weight-bold"></label>
+                </div>
+                <input asp-for="TotalTickets" class="form-control" type="number" placeholder="1000" />
+                <span asp-validation-for="TotalTickets" class="text-danger"></span>
+            </div>
+            <div class="form-group w-45">
+                <div class="d-flex justify-content-center">
+                    <label asp-for="PricePerTicket" class="font-weight-bold"></label>
+                </div>
+                <input asp-for="PricePerTicket" class="form-control" type="number" placeholder="150" />
+                <span asp-validation-for="PricePerTicket" class="text-danger"></span>
+            </div>
+        </div>
+        <hr class="hr-eventure mt-3 mx-auto" />
+        <div class="d-flex justify-content-center">
+            <button class="btn btn-light bg-eventure border-secondary" type="submit">Create Event</button>
+        </div>
+    </form>
+
+

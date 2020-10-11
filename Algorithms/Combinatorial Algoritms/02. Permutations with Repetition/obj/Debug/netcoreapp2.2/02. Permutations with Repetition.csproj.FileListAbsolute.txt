@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\bin\Debug\netcoreapp2.2\02. Permutations with Repetition.deps.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\bin\Debug\netcoreapp2.2\02. Permutations with Repetition.runtimeconfig.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\bin\Debug\netcoreapp2.2\02. Permutations with Repetition.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\bin\Debug\netcoreapp2.2\02. Permutations with Repetition.dll
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\bin\Debug\netcoreapp2.2\02. Permutations with Repetition.pdb
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\obj\Debug\netcoreapp2.2\02. Permutations with Repetition.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\obj\Debug\netcoreapp2.2\02. Permutations with Repetition.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\obj\Debug\netcoreapp2.2\02. Permutations with Repetition.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\obj\Debug\netcoreapp2.2\02. Permutations with Repetition.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\obj\Debug\netcoreapp2.2\02. Permutations with Repetition.dll
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\02. Permutations with Repetition\obj\Debug\netcoreapp2.2\02. Permutations with Repetition.pdb

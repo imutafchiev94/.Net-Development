@@ -1,0 +1,48 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Eventures.Models
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (!this.User.Identity.IsAuthenticated)
+{
+    <div class="container bg-eventure">
+        <br />
+        <br />
+        <h2 class="pl-2">Eventures - The best ticket service in the world.</h2>
+        <hr class="pl-2" id="line" />
+        <p class="pl-2 font-weight-bold"> <a id="login" asp-area="Identity" asp-page="/Account/Login">Login</a> to start "eventing".</p>
+        <p class="pl-2 font-weight-bold"> <a class="font-weight-bold" id="register" asp-area="Identity" asp-page="/Account/Register">Register</a> if you don't have an account</p>
+        <br />
+        <br />
+    </div>
+}
+else
+{
+    if (!User.IsInRole("Admin"))
+    {
+        <div class="container bg-eventure text-center">
+            <br />
+            <br />
+            <h2 class="pl-2 font-weight-bolder">Welcome, @this.User.Identity.Name</h2>
+            <hr class="pl-2" id="greyLine" />
+            <h5 class="pl-2 font-weight-bold" id="grey">Eventures wishes you an exciting expirience.</h5>
+            <br />
+            <br />
+        </div>
+    }
+    else
+    {
+        <div class="container bg-eventure text-center">
+            <br />
+            <br />
+            <h2 class="pl-2 font-weight-bolder">Welcome, Administrator - @this.User.Identity.Name</h2>
+            <hr class="pl-2" id="greyLine" />
+            <h5 class="pl-2 font-weight-bold" id="grey">Enjoy your work</h5>
+            <br />
+            <br />
+        </div>
+    }
+}

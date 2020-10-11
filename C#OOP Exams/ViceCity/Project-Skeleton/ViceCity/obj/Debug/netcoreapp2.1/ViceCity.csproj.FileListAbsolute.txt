@@ -1,0 +1,21 @@
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.deps.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.dev.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.deps.json
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.json
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.dev.json
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.dll
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.pdb
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.dll
+D:\.Net Developement\C#OOP Exams\ViceCity\Project-Skeleton\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.pdb

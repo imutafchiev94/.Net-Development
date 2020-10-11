@@ -1,0 +1,11 @@
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\bin\Debug\netcoreapp3.1\01.Socks.exe
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\bin\Debug\netcoreapp3.1\01.Socks.deps.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\bin\Debug\netcoreapp3.1\01.Socks.runtimeconfig.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\bin\Debug\netcoreapp3.1\01.Socks.runtimeconfig.dev.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\bin\Debug\netcoreapp3.1\01.Socks.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\bin\Debug\netcoreapp3.1\01.Socks.pdb
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\obj\Debug\netcoreapp3.1\01.Socks.csprojAssemblyReference.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\obj\Debug\netcoreapp3.1\01.Socks.AssemblyInfoInputs.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\obj\Debug\netcoreapp3.1\01.Socks.AssemblyInfo.cs
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\obj\Debug\netcoreapp3.1\01.Socks.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_Feb_2019\01.Socks\obj\Debug\netcoreapp3.1\01.Socks.pdb

@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\bin\Debug\netcoreapp3.1\SchoolTeams.exe
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\bin\Debug\netcoreapp3.1\SchoolTeams.deps.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\bin\Debug\netcoreapp3.1\SchoolTeams.runtimeconfig.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\bin\Debug\netcoreapp3.1\SchoolTeams.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\bin\Debug\netcoreapp3.1\SchoolTeams.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\bin\Debug\netcoreapp3.1\SchoolTeams.pdb
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\obj\Debug\netcoreapp3.1\SchoolTeams.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\obj\Debug\netcoreapp3.1\SchoolTeams.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\obj\Debug\netcoreapp3.1\SchoolTeams.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\obj\Debug\netcoreapp3.1\SchoolTeams.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\SchoolTeams\obj\Debug\netcoreapp3.1\SchoolTeams.pdb

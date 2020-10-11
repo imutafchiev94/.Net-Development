@@ -1,0 +1,13 @@
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp2.2\MyLibrary.Data.deps.json
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp2.2\MyLibrary.Data.runtimeconfig.json
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp2.2\MyLibrary.Data.runtimeconfig.dev.json
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp2.2\MyLibrary.Data.dll
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp2.2\MyLibrary.Data.pdb
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp2.2\MyLibrary.Models.dll
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp2.2\MyLibrary.Models.pdb
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp2.2\MyLibrary.Data.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp2.2\MyLibrary.Data.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp2.2\MyLibrary.Data.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp2.2\MyLibrary.Data.csproj.CopyComplete
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp2.2\MyLibrary.Data.dll
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp2.2\MyLibrary.Data.pdb

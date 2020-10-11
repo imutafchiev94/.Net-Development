@@ -1,0 +1,11 @@
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\bin\Debug\netcoreapp2.2\MM_Logo.deps.json
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\bin\Debug\netcoreapp2.2\MM_Logo.runtimeconfig.json
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\bin\Debug\netcoreapp2.2\MM_Logo.runtimeconfig.dev.json
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\bin\Debug\netcoreapp2.2\MM_Logo.dll
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\bin\Debug\netcoreapp2.2\MM_Logo.pdb
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\obj\Debug\netcoreapp2.2\MM_Logo.csprojAssemblyReference.cache
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\obj\Debug\netcoreapp2.2\MM_Logo.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\obj\Debug\netcoreapp2.2\MM_Logo.AssemblyInfoInputs.cache
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\obj\Debug\netcoreapp2.2\MM_Logo.AssemblyInfo.cs
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\obj\Debug\netcoreapp2.2\MM_Logo.dll
+D:\.Net Developement\Intern\MM_Logo\MM_Logo\obj\Debug\netcoreapp2.2\MM_Logo.pdb

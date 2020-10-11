@@ -1,0 +1,4 @@
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+D:\.Net Developement\C#Advanced WorkShop\Exam_23_06_2019\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache

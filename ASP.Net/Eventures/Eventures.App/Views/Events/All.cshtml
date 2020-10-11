@@ -1,0 +1,33 @@
+﻿@model Eventures.App.Commons.ViewModels.AllEventsViewModel
+
+@{
+    ViewData["Title"] = "All";
+}
+
+<h1 class="text-center">All Events</h1>
+
+<table class="table table-eventure">
+    <thead class="thead-eventure">
+        <tr class="row">
+            <th class="col-1">#</th>
+            <th class="col-3">Name</th>
+            <th class="col-3">Start</th>
+            <th class="col-3">End</th>
+            <th class="col-2">Place</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var events in Model.Events)
+        {
+        <tr class="row">
+            <td class="col-1">@events.Id</td>
+            <td class="col-3">@events.Name</td>
+            <td class="col-3">@events.Start</td>
+            <td class="col-3">@events.End</td>
+            <td class="col-2">@events.Place</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<hr class="hr-eventure"/>

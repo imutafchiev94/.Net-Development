@@ -1,0 +1,11 @@
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster.exe
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster.deps.json
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster.runtimeconfig.json
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster.runtimeconfig.dev.json
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster.dll
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster.pdb
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster.dll
+D:\.Net Developement\ASP.Net\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster.pdb

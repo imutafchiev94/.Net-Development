@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.deps.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.runtimeconfig.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.dll
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\bin\Debug\netcoreapp2.0\PersonInfo.pdb
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.dll
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\PersonInfo\obj\Debug\netcoreapp2.0\PersonInfo.pdb

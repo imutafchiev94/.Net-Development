@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.deps.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.runtimeconfig.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.dll
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.pdb
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.dll
+D:\.Net Developement\C# OOP\EncapsulationExercises\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.pdb

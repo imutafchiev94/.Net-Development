@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\bin\Debug\netcoreapp2.0\Vechiles.deps.json
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\bin\Debug\netcoreapp2.0\Vechiles.runtimeconfig.json
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\bin\Debug\netcoreapp2.0\Vechiles.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\bin\Debug\netcoreapp2.0\Vechiles.dll
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\bin\Debug\netcoreapp2.0\Vechiles.pdb
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\obj\Debug\netcoreapp2.0\Vechiles.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\obj\Debug\netcoreapp2.0\Vechiles.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\obj\Debug\netcoreapp2.0\Vechiles.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\obj\Debug\netcoreapp2.0\Vechiles.dll
+D:\.Net Developement\C# OOP\PolymorphismExercises\Vechiles\obj\Debug\netcoreapp2.0\Vechiles.pdb

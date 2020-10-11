@@ -1,0 +1,10 @@
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\.Net Developement\C#OOP Exams\Blue\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb

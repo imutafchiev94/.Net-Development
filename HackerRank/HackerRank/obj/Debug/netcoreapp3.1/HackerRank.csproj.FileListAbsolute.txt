@@ -1,0 +1,13 @@
+D:\.Net Developement\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.exe
+D:\.Net Developement\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.deps.json
+D:\.Net Developement\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.json
+D:\.Net Developement\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.dev.json
+D:\.Net Developement\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.dll
+D:\.Net Developement\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.pdb
+D:\.Net Developement\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.csprojAssemblyReference.cache
+D:\.Net Developement\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.csproj.CoreCompileInputs.cache
+D:\.Net Developement\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfoInputs.cache
+D:\.Net Developement\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfo.cs
+D:\.Net Developement\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.dll
+D:\.Net Developement\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.pdb
+D:\.Net Developement\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.genruntimeconfig.cache

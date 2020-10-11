@@ -1,0 +1,9 @@
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\bin\Debug\netcoreapp2.0\Telephony.deps.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\bin\Debug\netcoreapp2.0\Telephony.runtimeconfig.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\bin\Debug\netcoreapp2.0\Telephony.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\bin\Debug\netcoreapp2.0\Telephony.dll
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\bin\Debug\netcoreapp2.0\Telephony.pdb
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\obj\Debug\netcoreapp2.0\Telephony.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\obj\Debug\netcoreapp2.0\Telephony.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\obj\Debug\netcoreapp2.0\Telephony.dll
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\Telephony\obj\Debug\netcoreapp2.0\Telephony.pdb

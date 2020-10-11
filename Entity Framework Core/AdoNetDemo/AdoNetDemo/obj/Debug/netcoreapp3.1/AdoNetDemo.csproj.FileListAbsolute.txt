@@ -1,0 +1,4 @@
+D:\.Net Developement\Entity Framework Core\AdoNetDemo\AdoNetDemo\bin\Debug\netcoreapp3.1\AdoNetDemo.exe
+D:\.Net Developement\Entity Framework Core\AdoNetDemo\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.csprojAssemblyReference.cache
+D:\.Net Developement\Entity Framework Core\AdoNetDemo\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.AssemblyInfoInputs.cache
+D:\.Net Developement\Entity Framework Core\AdoNetDemo\AdoNetDemo\obj\Debug\netcoreapp3.1\AdoNetDemo.AssemblyInfo.cs

@@ -1,0 +1,8 @@
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Models\bin\Debug\netcoreapp3.1\Eventure.Models.deps.json
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Models\bin\Debug\netcoreapp3.1\Eventure.Models.dll
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Models\obj\Debug\netcoreapp3.1\Eventure.Models.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Models\obj\Debug\netcoreapp3.1\Eventure.Models.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Models\bin\Debug\netcoreapp3.1\Eventure.Models.pdb
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Models\obj\Debug\netcoreapp3.1\Eventure.Models.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Models\obj\Debug\netcoreapp3.1\Eventure.Models.dll
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Models\obj\Debug\netcoreapp3.1\Eventure.Models.pdb

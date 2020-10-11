@@ -1,0 +1,13 @@
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\bin\Debug\netcoreapp3.1\Eventure.Data.deps.json
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\bin\Debug\netcoreapp3.1\Eventure.Data.dll
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\obj\Debug\netcoreapp3.1\Eventure.Data.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\obj\Debug\netcoreapp3.1\Eventure.Data.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\obj\Debug\netcoreapp3.1\Eventure.Data.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\bin\Debug\netcoreapp3.1\Eventure.Data.runtimeconfig.json
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\bin\Debug\netcoreapp3.1\Eventure.Data.runtimeconfig.dev.json
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\bin\Debug\netcoreapp3.1\Eventure.Data.pdb
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\obj\Debug\netcoreapp3.1\Eventure.Data.dll
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\obj\Debug\netcoreapp3.1\Eventure.Data.pdb
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\bin\Debug\netcoreapp3.1\Eventure.Models.dll
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\bin\Debug\netcoreapp3.1\Eventure.Models.pdb
+D:\.Net Developement\ASP.Net\Eventure\Eventure.Data\obj\Debug\netcoreapp3.1\Eventure.Data.csproj.CopyComplete

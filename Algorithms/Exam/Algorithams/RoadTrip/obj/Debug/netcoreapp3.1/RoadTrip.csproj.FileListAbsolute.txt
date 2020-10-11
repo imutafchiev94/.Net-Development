@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.exe
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.deps.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.runtimeconfig.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\bin\Debug\netcoreapp3.1\RoadTrip.pdb
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\RoadTrip\obj\Debug\netcoreapp3.1\RoadTrip.pdb

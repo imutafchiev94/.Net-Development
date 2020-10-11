@@ -1,0 +1,9 @@
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp2.0\PersonsInfo.deps.json
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp2.0\PersonsInfo.runtimeconfig.json
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp2.0\PersonsInfo.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp2.0\PersonsInfo.dll
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp2.0\PersonsInfo.pdb
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp2.0\PersonsInfo.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp2.0\PersonsInfo.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp2.0\PersonsInfo.dll
+D:\.Net Developement\C# OOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp2.0\PersonsInfo.pdb

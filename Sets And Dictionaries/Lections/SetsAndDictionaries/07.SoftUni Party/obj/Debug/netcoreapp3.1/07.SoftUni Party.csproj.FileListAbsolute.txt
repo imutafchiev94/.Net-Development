@@ -1,0 +1,10 @@
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\bin\Debug\netcoreapp3.1\07.SoftUni Party.exe
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\bin\Debug\netcoreapp3.1\07.SoftUni Party.deps.json
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\bin\Debug\netcoreapp3.1\07.SoftUni Party.runtimeconfig.json
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\bin\Debug\netcoreapp3.1\07.SoftUni Party.runtimeconfig.dev.json
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\bin\Debug\netcoreapp3.1\07.SoftUni Party.dll
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\bin\Debug\netcoreapp3.1\07.SoftUni Party.pdb
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\obj\Debug\netcoreapp3.1\07.SoftUni Party.AssemblyInfoInputs.cache
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\obj\Debug\netcoreapp3.1\07.SoftUni Party.AssemblyInfo.cs
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\obj\Debug\netcoreapp3.1\07.SoftUni Party.dll
+D:\.Net Developement\Sets And Dictionaries\Lections\SetsAndDictionaries\07.SoftUni Party\obj\Debug\netcoreapp3.1\07.SoftUni Party.pdb

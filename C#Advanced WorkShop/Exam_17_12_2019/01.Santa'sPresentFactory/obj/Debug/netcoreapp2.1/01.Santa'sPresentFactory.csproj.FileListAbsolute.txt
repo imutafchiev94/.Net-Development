@@ -1,0 +1,10 @@
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp2.1\01.Santa'sPresentFactory.deps.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp2.1\01.Santa'sPresentFactory.runtimeconfig.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp2.1\01.Santa'sPresentFactory.runtimeconfig.dev.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp2.1\01.Santa'sPresentFactory.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\bin\Debug\netcoreapp2.1\01.Santa'sPresentFactory.pdb
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp2.1\01.Santa'sPresentFactory.csprojAssemblyReference.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp2.1\01.Santa'sPresentFactory.AssemblyInfoInputs.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp2.1\01.Santa'sPresentFactory.AssemblyInfo.cs
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp2.1\01.Santa'sPresentFactory.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\01.Santa'sPresentFactory\obj\Debug\netcoreapp2.1\01.Santa'sPresentFactory.pdb

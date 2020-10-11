@@ -1,0 +1,11 @@
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\bin\Debug\netcoreapp3.1\01_Materials.exe
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\bin\Debug\netcoreapp3.1\01_Materials.deps.json
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\bin\Debug\netcoreapp3.1\01_Materials.runtimeconfig.json
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\bin\Debug\netcoreapp3.1\01_Materials.runtimeconfig.dev.json
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\bin\Debug\netcoreapp3.1\01_Materials.dll
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\bin\Debug\netcoreapp3.1\01_Materials.pdb
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\obj\Debug\netcoreapp3.1\01_Materials.csprojAssemblyReference.cache
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\obj\Debug\netcoreapp3.1\01_Materials.AssemblyInfoInputs.cache
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\obj\Debug\netcoreapp3.1\01_Materials.AssemblyInfo.cs
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\obj\Debug\netcoreapp3.1\01_Materials.dll
+D:\.Net Developement\Motion Software\MotionSoftware\01_Materials\obj\Debug\netcoreapp3.1\01_Materials.pdb

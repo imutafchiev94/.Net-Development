@@ -1,0 +1,9 @@
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\bin\Debug\netcoreapp2.0\Farm.deps.json
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\bin\Debug\netcoreapp2.0\Farm.runtimeconfig.json
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\bin\Debug\netcoreapp2.0\Farm.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\bin\Debug\netcoreapp2.0\Farm.dll
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\bin\Debug\netcoreapp2.0\Farm.pdb
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\obj\Debug\netcoreapp2.0\Farm.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\obj\Debug\netcoreapp2.0\Farm.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\obj\Debug\netcoreapp2.0\Farm.dll
+D:\.Net Developement\C# OOP\Inheritance\Labs\Inheritance\Farm\obj\Debug\netcoreapp2.0\Farm.pdb

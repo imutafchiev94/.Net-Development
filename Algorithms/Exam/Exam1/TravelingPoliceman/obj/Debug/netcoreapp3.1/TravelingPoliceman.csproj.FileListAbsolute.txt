@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\bin\Debug\netcoreapp3.1\TravelingPoliceman.exe
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\bin\Debug\netcoreapp3.1\TravelingPoliceman.deps.json
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\bin\Debug\netcoreapp3.1\TravelingPoliceman.runtimeconfig.json
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\bin\Debug\netcoreapp3.1\TravelingPoliceman.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\bin\Debug\netcoreapp3.1\TravelingPoliceman.dll
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\bin\Debug\netcoreapp3.1\TravelingPoliceman.pdb
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\obj\Debug\netcoreapp3.1\TravelingPoliceman.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\obj\Debug\netcoreapp3.1\TravelingPoliceman.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\obj\Debug\netcoreapp3.1\TravelingPoliceman.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\obj\Debug\netcoreapp3.1\TravelingPoliceman.dll
+D:\.Net Developement\Algorithms\Exam\Exam1\TravelingPoliceman\obj\Debug\netcoreapp3.1\TravelingPoliceman.pdb

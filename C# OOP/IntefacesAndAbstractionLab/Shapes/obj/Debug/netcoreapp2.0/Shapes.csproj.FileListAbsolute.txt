@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+D:\.Net Developement\C# OOP\IntefacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb

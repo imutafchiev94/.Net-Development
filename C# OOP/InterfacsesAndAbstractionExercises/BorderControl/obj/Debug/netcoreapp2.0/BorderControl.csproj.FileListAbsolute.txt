@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.deps.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.dll
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.pdb
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.dll
+D:\.Net Developement\C# OOP\InterfacsesAndAbstractionExercises\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.pdb

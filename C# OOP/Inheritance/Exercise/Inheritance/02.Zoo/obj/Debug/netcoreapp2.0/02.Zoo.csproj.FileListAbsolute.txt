@@ -1,0 +1,9 @@
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\bin\Debug\netcoreapp2.0\02.Zoo.deps.json
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\bin\Debug\netcoreapp2.0\02.Zoo.runtimeconfig.json
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\bin\Debug\netcoreapp2.0\02.Zoo.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\bin\Debug\netcoreapp2.0\02.Zoo.dll
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\bin\Debug\netcoreapp2.0\02.Zoo.pdb
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\obj\Debug\netcoreapp2.0\02.Zoo.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\obj\Debug\netcoreapp2.0\02.Zoo.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\obj\Debug\netcoreapp2.0\02.Zoo.dll
+D:\.Net Developement\C# OOP\Inheritance\Exercise\Inheritance\02.Zoo\obj\Debug\netcoreapp2.0\02.Zoo.pdb

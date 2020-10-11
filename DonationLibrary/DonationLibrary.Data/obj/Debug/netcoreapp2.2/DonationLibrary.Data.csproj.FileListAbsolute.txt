@@ -1,0 +1,13 @@
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\bin\Debug\netcoreapp2.2\DonationLibrary.Data.deps.json
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\bin\Debug\netcoreapp2.2\DonationLibrary.Data.runtimeconfig.json
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\bin\Debug\netcoreapp2.2\DonationLibrary.Data.runtimeconfig.dev.json
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\bin\Debug\netcoreapp2.2\DonationLibrary.Data.dll
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\bin\Debug\netcoreapp2.2\DonationLibrary.Data.pdb
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\bin\Debug\netcoreapp2.2\DonationLibrary.Models.dll
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\bin\Debug\netcoreapp2.2\DonationLibrary.Models.pdb
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\obj\Debug\netcoreapp2.2\DonationLibrary.Data.csprojAssemblyReference.cache
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\obj\Debug\netcoreapp2.2\DonationLibrary.Data.AssemblyInfoInputs.cache
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\obj\Debug\netcoreapp2.2\DonationLibrary.Data.AssemblyInfo.cs
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\obj\Debug\netcoreapp2.2\DonationLibrary.Data.csproj.CopyComplete
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\obj\Debug\netcoreapp2.2\DonationLibrary.Data.dll
+D:\.Net Developement\DonationLibrary\DonationLibrary.Data\obj\Debug\netcoreapp2.2\DonationLibrary.Data.pdb

@@ -1,0 +1,13 @@
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\bin\Debug\netcoreapp3.1\Eventures.Data.deps.json
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\bin\Debug\netcoreapp3.1\Eventures.Data.dll
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\obj\Debug\netcoreapp3.1\Eventures.Data.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\obj\Debug\netcoreapp3.1\Eventures.Data.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\obj\Debug\netcoreapp3.1\Eventures.Data.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\bin\Debug\netcoreapp3.1\Eventures.Data.runtimeconfig.json
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\bin\Debug\netcoreapp3.1\Eventures.Data.runtimeconfig.dev.json
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\bin\Debug\netcoreapp3.1\Eventures.Models.dll
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\bin\Debug\netcoreapp3.1\Eventures.Data.pdb
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\bin\Debug\netcoreapp3.1\Eventures.Models.pdb
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\obj\Debug\netcoreapp3.1\Eventures.Data.csproj.CopyComplete
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\obj\Debug\netcoreapp3.1\Eventures.Data.dll
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Data\obj\Debug\netcoreapp3.1\Eventures.Data.pdb

@@ -1,0 +1,9 @@
+﻿@model Lecture.Models.Home.IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach (var item in this.Model.Usernames)
+{
+    <p>@item</p>
+}

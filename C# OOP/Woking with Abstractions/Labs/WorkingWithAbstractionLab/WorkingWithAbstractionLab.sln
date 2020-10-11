@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RhombusOfStars", "01.RhombusOfStars\01.RhombusOfStars.csproj", "{DC2A487E-2A4D-4751-87CF-F72C600924E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PointsInRectangle", "02.PointsInRectangle\02.PointsInRectangle.csproj", "{7886971F-FE45-430C-AC85-C0DFF8EC4ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2A487E-2A4D-4751-87CF-F72C600924E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2A487E-2A4D-4751-87CF-F72C600924E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2A487E-2A4D-4751-87CF-F72C600924E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2A487E-2A4D-4751-87CF-F72C600924E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7886971F-FE45-430C-AC85-C0DFF8EC4ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7886971F-FE45-430C-AC85-C0DFF8EC4ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7886971F-FE45-430C-AC85-C0DFF8EC4ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7886971F-FE45-430C-AC85-C0DFF8EC4ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE4C2D8C-358E-4440-B3CD-BC8036354F80}
+	EndGlobalSection
+EndGlobal

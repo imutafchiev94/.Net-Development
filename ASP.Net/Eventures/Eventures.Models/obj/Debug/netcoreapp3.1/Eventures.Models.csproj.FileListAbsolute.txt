@@ -1,0 +1,8 @@
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Models\bin\Debug\netcoreapp3.1\Eventures.Models.deps.json
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Models\bin\Debug\netcoreapp3.1\Eventures.Models.dll
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Models\obj\Debug\netcoreapp3.1\Eventures.Models.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Models\obj\Debug\netcoreapp3.1\Eventures.Models.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Models\obj\Debug\netcoreapp3.1\Eventures.Models.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Models\bin\Debug\netcoreapp3.1\Eventures.Models.pdb
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Models\obj\Debug\netcoreapp3.1\Eventures.Models.dll
+D:\.Net Developement\ASP.Net\Eventures\Eventures.Models\obj\Debug\netcoreapp3.1\Eventures.Models.pdb

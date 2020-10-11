@@ -1,0 +1,11 @@
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+D:\.Net Developement\C# OOP\EncapsulationExercises\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb

@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\bin\Debug\netcoreapp3.1\Clusters.exe
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\bin\Debug\netcoreapp3.1\Clusters.deps.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\bin\Debug\netcoreapp3.1\Clusters.runtimeconfig.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\bin\Debug\netcoreapp3.1\Clusters.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\bin\Debug\netcoreapp3.1\Clusters.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\bin\Debug\netcoreapp3.1\Clusters.pdb
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\obj\Debug\netcoreapp3.1\Clusters.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\obj\Debug\netcoreapp3.1\Clusters.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\obj\Debug\netcoreapp3.1\Clusters.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\obj\Debug\netcoreapp3.1\Clusters.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\Clusters\obj\Debug\netcoreapp3.1\Clusters.pdb

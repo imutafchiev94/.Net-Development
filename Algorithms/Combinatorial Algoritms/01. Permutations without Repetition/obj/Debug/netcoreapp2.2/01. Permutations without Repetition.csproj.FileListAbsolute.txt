@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\bin\Debug\netcoreapp2.2\01. Permutations without Repetition.deps.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\bin\Debug\netcoreapp2.2\01. Permutations without Repetition.runtimeconfig.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\bin\Debug\netcoreapp2.2\01. Permutations without Repetition.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\bin\Debug\netcoreapp2.2\01. Permutations without Repetition.dll
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\bin\Debug\netcoreapp2.2\01. Permutations without Repetition.pdb
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\obj\Debug\netcoreapp2.2\01. Permutations without Repetition.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\obj\Debug\netcoreapp2.2\01. Permutations without Repetition.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\obj\Debug\netcoreapp2.2\01. Permutations without Repetition.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\obj\Debug\netcoreapp2.2\01. Permutations without Repetition.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\obj\Debug\netcoreapp2.2\01. Permutations without Repetition.dll
+D:\.Net Developement\Algorithms\Combinatorial Algoritms\01. Permutations without Repetition\obj\Debug\netcoreapp2.2\01. Permutations without Repetition.pdb

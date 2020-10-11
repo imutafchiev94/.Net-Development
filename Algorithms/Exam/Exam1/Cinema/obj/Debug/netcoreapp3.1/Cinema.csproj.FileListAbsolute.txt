@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+D:\.Net Developement\Algorithms\Exam\Exam1\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb

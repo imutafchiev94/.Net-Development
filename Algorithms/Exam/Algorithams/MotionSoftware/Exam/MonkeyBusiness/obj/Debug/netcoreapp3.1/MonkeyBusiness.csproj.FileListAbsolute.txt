@@ -1,0 +1,11 @@
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\bin\Debug\netcoreapp3.1\MonkeyBusiness.exe
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\bin\Debug\netcoreapp3.1\MonkeyBusiness.deps.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\bin\Debug\netcoreapp3.1\MonkeyBusiness.runtimeconfig.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\bin\Debug\netcoreapp3.1\MonkeyBusiness.runtimeconfig.dev.json
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\bin\Debug\netcoreapp3.1\MonkeyBusiness.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\bin\Debug\netcoreapp3.1\MonkeyBusiness.pdb
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\obj\Debug\netcoreapp3.1\MonkeyBusiness.csprojAssemblyReference.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\obj\Debug\netcoreapp3.1\MonkeyBusiness.AssemblyInfoInputs.cache
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\obj\Debug\netcoreapp3.1\MonkeyBusiness.AssemblyInfo.cs
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\obj\Debug\netcoreapp3.1\MonkeyBusiness.dll
+D:\.Net Developement\Algorithms\Exam\Algorithams\MotionSoftware\Exam\MonkeyBusiness\obj\Debug\netcoreapp3.1\MonkeyBusiness.pdb

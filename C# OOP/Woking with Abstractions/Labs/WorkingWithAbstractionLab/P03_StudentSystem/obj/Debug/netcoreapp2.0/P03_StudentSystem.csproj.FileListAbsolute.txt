@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb

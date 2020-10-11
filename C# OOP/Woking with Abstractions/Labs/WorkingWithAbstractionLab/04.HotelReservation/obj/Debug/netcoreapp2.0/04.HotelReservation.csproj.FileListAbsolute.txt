@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.deps.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.pdb
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.pdb

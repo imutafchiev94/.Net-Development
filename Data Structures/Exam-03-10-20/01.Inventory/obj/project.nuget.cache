@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "08I7U+9yt4+uEQ6V4aEa7MdlytkMlzYzbnzgJI/qekX3e3aUWJ3YBuvo1wO8X1zUHUr5TM6pCUE9NxV7CNuVYw==",
+  "success": true,
+  "projectFilePath": "D:\\.Net Developement\\Data Structures\\Exam-03-10-20\\01.Inventory\\01.Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

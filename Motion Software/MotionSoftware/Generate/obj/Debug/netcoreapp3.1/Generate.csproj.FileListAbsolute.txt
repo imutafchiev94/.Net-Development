@@ -1,0 +1,11 @@
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\bin\Debug\netcoreapp3.1\Generate.exe
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\bin\Debug\netcoreapp3.1\Generate.deps.json
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\bin\Debug\netcoreapp3.1\Generate.runtimeconfig.json
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\bin\Debug\netcoreapp3.1\Generate.runtimeconfig.dev.json
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\bin\Debug\netcoreapp3.1\Generate.dll
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\bin\Debug\netcoreapp3.1\Generate.pdb
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\obj\Debug\netcoreapp3.1\Generate.csprojAssemblyReference.cache
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\obj\Debug\netcoreapp3.1\Generate.AssemblyInfoInputs.cache
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\obj\Debug\netcoreapp3.1\Generate.AssemblyInfo.cs
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\obj\Debug\netcoreapp3.1\Generate.dll
+D:\.Net Developement\Motion Software\MotionSoftware\Generate\obj\Debug\netcoreapp3.1\Generate.pdb

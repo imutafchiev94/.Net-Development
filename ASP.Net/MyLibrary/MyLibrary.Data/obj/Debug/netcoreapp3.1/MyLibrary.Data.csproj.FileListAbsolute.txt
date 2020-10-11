@@ -1,0 +1,7 @@
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp3.1\MyLibrary.Data.deps.json
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp3.1\MyLibrary.Data.dll
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp3.1\MyLibrary.Data.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp3.1\MyLibrary.Data.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\obj\Debug\netcoreapp3.1\MyLibrary.Data.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp3.1\MyLibrary.Data.runtimeconfig.json
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Data\bin\Debug\netcoreapp3.1\MyLibrary.Data.runtimeconfig.dev.json

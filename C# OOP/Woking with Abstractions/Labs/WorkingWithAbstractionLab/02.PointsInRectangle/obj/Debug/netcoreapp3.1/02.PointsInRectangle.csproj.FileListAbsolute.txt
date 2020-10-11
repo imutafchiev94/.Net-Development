@@ -1,0 +1,11 @@
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\bin\Debug\netcoreapp3.1\02.PointsInRectangle.exe
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\bin\Debug\netcoreapp3.1\02.PointsInRectangle.deps.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\bin\Debug\netcoreapp3.1\02.PointsInRectangle.runtimeconfig.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\bin\Debug\netcoreapp3.1\02.PointsInRectangle.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\bin\Debug\netcoreapp3.1\02.PointsInRectangle.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\bin\Debug\netcoreapp3.1\02.PointsInRectangle.pdb
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\obj\Debug\netcoreapp3.1\02.PointsInRectangle.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\obj\Debug\netcoreapp3.1\02.PointsInRectangle.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\obj\Debug\netcoreapp3.1\02.PointsInRectangle.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\obj\Debug\netcoreapp3.1\02.PointsInRectangle.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Labs\WorkingWithAbstractionLab\02.PointsInRectangle\obj\Debug\netcoreapp3.1\02.PointsInRectangle.pdb

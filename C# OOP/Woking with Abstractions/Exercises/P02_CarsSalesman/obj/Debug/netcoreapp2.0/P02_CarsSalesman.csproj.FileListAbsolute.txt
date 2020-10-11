@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

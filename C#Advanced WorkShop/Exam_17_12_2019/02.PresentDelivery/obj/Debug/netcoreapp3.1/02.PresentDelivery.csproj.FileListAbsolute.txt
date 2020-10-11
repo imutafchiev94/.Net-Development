@@ -1,0 +1,11 @@
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.exe
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.deps.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.runtimeconfig.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.runtimeconfig.dev.json
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\bin\Debug\netcoreapp3.1\02.PresentDelivery.pdb
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.csprojAssemblyReference.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.AssemblyInfoInputs.cache
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.AssemblyInfo.cs
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.dll
+D:\.Net Developement\C#Advanced WorkShop\Exam_17_12_2019\02.PresentDelivery\obj\Debug\netcoreapp3.1\02.PresentDelivery.pdb

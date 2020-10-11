@@ -1,0 +1,8 @@
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Models\bin\Debug\netcoreapp2.2\MyLibrary.Models.deps.json
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Models\bin\Debug\netcoreapp2.2\MyLibrary.Models.dll
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Models\bin\Debug\netcoreapp2.2\MyLibrary.Models.pdb
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Models\obj\Debug\netcoreapp2.2\MyLibrary.Models.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Models\obj\Debug\netcoreapp2.2\MyLibrary.Models.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Models\obj\Debug\netcoreapp2.2\MyLibrary.Models.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Models\obj\Debug\netcoreapp2.2\MyLibrary.Models.dll
+D:\.Net Developement\ASP.Net\MyLibrary\MyLibrary.Models\obj\Debug\netcoreapp2.2\MyLibrary.Models.pdb

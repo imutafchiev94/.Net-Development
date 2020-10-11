@@ -1,0 +1,9 @@
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\bin\Debug\netcoreapp2.1\BookLibrary.Models.deps.json
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\bin\Debug\netcoreapp2.1\BookLibrary.Models.dll
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\bin\Debug\netcoreapp2.1\BookLibrary.Models.pdb
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.dll
+C:\Users\Yordan\Desktop\BookLibrary\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.pdb

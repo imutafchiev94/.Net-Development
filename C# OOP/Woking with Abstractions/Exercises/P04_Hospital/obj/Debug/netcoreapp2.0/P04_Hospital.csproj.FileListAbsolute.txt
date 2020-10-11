@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\.Net Developement\C# OOP\Woking with Abstractions\Exercises\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb

@@ -1,0 +1,11 @@
+D:\.Net Developement\Motion Software\MotionSoftware\Train\bin\Debug\netcoreapp3.1\Train.exe
+D:\.Net Developement\Motion Software\MotionSoftware\Train\bin\Debug\netcoreapp3.1\Train.deps.json
+D:\.Net Developement\Motion Software\MotionSoftware\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+D:\.Net Developement\Motion Software\MotionSoftware\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+D:\.Net Developement\Motion Software\MotionSoftware\Train\bin\Debug\netcoreapp3.1\Train.dll
+D:\.Net Developement\Motion Software\MotionSoftware\Train\bin\Debug\netcoreapp3.1\Train.pdb
+D:\.Net Developement\Motion Software\MotionSoftware\Train\obj\Debug\netcoreapp3.1\Train.csprojAssemblyReference.cache
+D:\.Net Developement\Motion Software\MotionSoftware\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+D:\.Net Developement\Motion Software\MotionSoftware\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+D:\.Net Developement\Motion Software\MotionSoftware\Train\obj\Debug\netcoreapp3.1\Train.dll
+D:\.Net Developement\Motion Software\MotionSoftware\Train\obj\Debug\netcoreapp3.1\Train.pdb

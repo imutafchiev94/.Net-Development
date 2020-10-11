@@ -1,0 +1,8 @@
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Models\bin\Debug\netcoreapp3.1\FDMC.Models.deps.json
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Models\bin\Debug\netcoreapp3.1\FDMC.Models.dll
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Models\bin\Debug\netcoreapp3.1\FDMC.Models.pdb
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Models\obj\Debug\netcoreapp3.1\FDMC.Models.csprojAssemblyReference.cache
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Models\obj\Debug\netcoreapp3.1\FDMC.Models.AssemblyInfoInputs.cache
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Models\obj\Debug\netcoreapp3.1\FDMC.Models.AssemblyInfo.cs
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Models\obj\Debug\netcoreapp3.1\FDMC.Models.dll
+D:\.Net Developement\ASP.Net Core\FDMC\FDMC\FDMC.Models\obj\Debug\netcoreapp3.1\FDMC.Models.pdb

@@ -1,0 +1,11 @@
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\obj\Debug\netcoreapp3.1\Swap.csprojAssemblyReference.cache
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\bin\Debug\netcoreapp3.1\Swap.exe
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\bin\Debug\netcoreapp3.1\Swap.deps.json
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.json
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.dev.json
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\bin\Debug\netcoreapp3.1\Swap.dll
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\bin\Debug\netcoreapp3.1\Swap.pdb
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\obj\Debug\netcoreapp3.1\Swap.dll
+D:\.Net Developement\Motion Software\MotionSoftware\Swap\obj\Debug\netcoreapp3.1\Swap.pdb

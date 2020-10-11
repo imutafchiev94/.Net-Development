@@ -1,0 +1,10 @@
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\bin\Debug\netcoreapp2.0\BoxData.deps.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\bin\Debug\netcoreapp2.0\BoxData.runtimeconfig.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\bin\Debug\netcoreapp2.0\BoxData.runtimeconfig.dev.json
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\bin\Debug\netcoreapp2.0\BoxData.dll
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\bin\Debug\netcoreapp2.0\BoxData.pdb
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\obj\Debug\netcoreapp2.0\BoxData.csprojAssemblyReference.cache
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\obj\Debug\netcoreapp2.0\BoxData.AssemblyInfoInputs.cache
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\obj\Debug\netcoreapp2.0\BoxData.AssemblyInfo.cs
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\obj\Debug\netcoreapp2.0\BoxData.dll
+D:\.Net Developement\C# OOP\EncapsulationExercises\BoxData\obj\Debug\netcoreapp2.0\BoxData.pdb
